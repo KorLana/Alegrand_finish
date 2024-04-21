@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /https://xn--80aaifc9arw.xn--p1ai/politika.html
+Host: https://xn--80aaifc9arw.xn--p1ai
+Sitemap: https://xn--80aaifc9arw.xn--p1ai/sitemap.xml
